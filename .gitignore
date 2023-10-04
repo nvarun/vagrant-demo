@@ -1,4 +1,4 @@
 .vagrant
 bin/
 share/
-go*.tar.gz
+*.tar.gz
